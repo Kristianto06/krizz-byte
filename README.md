@@ -1,5 +1,3 @@
-# krizz-byte
-Config files for my GitHub profile.
 # 💫 About Me:
 🔭 I’m currently working on healthcare indutries<br>👯 I’m looking to collaborate on Data analyst <br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
